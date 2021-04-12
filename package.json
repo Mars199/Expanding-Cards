@@ -1,0 +1,15 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Mars199.github.io/ExpandingCards",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
